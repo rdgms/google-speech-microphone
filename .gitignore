@@ -1,0 +1,17 @@
+*.orig
+node_modules
+!config/default.yaml
+.monitor
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+Thumbs.db
+*.log
+*~
+.migrate
+staging.json
+production.json
+test.js

@@ -1,0 +1,19 @@
+{
+  "name": "google-speech-microphone",
+  "version": "1.0.0",
+  "description": "Google speech api implementation with microphone stream",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auto-auth": "^0.2.4",
+    "google-proto-files": "^0.3.0",
+    "googleapis": "^12.0.0",
+    "grpc": "^1.0.0-pre1",
+    "node-record-lpcm16": "^0.1.4",
+    "request": "^2.74.0"
+  }
+}
