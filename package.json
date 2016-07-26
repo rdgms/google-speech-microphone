@@ -1,6 +1,6 @@
 {
   "name": "google-speech-microphone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google speech api implementation with microphone stream",
   "main": "index.js",
   "scripts": {
