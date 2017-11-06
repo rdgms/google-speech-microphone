@@ -3,7 +3,7 @@
 A very basic google speech api helper with microphone streaming to be used as base to others apps.
 
 ## Instalation
-````
+```
 npm install google-speech-microphone
 ```
 
